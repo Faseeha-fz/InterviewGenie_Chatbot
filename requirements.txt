@@ -1,0 +1,8 @@
+streamlit
+langchain
+chromadb
+sentence-transformers
+transformers
+spacy
+pandas
+python-dotenv
